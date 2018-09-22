@@ -1,2 +1,1 @@
-# bdmaxima
-Sistemas de Vendas
+# maxima

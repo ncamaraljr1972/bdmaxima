@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: telmo
+Build-Jdk: 10.0.2
+Implementation-Title: produto
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: produto
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/produto
+Created-By: Maven Integration for Eclipse
+

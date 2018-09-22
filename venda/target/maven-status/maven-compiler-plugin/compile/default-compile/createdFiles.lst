@@ -1,0 +1,5 @@
+com/auth0/samples/bootfaces/controller/ListProdutosController.class
+com/auth0/samples/bootfaces/model/produto.class
+com/auth0/samples/bootfaces/persistence/produtoRepository.class
+com/auth0/samples/bootfaces/Application.class
+com/auth0/samples/bootfaces/controller/produtoController.class
